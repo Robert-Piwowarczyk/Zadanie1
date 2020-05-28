@@ -4,6 +4,6 @@ public class Plik1 {
         System.out.println("się");
         System.out.println("programowania");
         System.out.println("i");
-        System.out.println("commitowania");
+        System.out.println("commitowania1");
     }
 }
